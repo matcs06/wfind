@@ -7,7 +7,7 @@ Comando find para windows(CMD)
 Para usar: Digite o comando "wfind" no e informe uma string que o arquivo que você quer encontrar pode ter.
 
 ex: 
-D:\pastateste> wfind video
- --- Searching for files containg string: vide----
+D:\pastateste> wfind video <br>
+--- Searching for files containg string: vide---- <br>
 D:\pastateste\teste17\arquivo\videoteste.txt
 
